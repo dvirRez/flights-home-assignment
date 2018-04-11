@@ -1,0 +1,18 @@
+form p {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.form_style {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.button_div {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
