@@ -1,0 +1,8 @@
+.login-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 300px; }
+
+.login-btn {
+  width: 200px; }
